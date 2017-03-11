@@ -12,7 +12,7 @@ import com.hr.nipuream.luckpan.Util;
 /**
  * 描述：
  * 作者：Nipuream
- * 时间: 2016-08-15 17:34
+ * 时间: 2016-08-15 17:34大圩想辞职v
  * 邮箱：571829491@qq.com
  */
 public class LuckPanLayout extends View {
